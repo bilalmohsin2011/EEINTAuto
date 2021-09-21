@@ -1,0 +1,11 @@
+[ {
+  "uid" : "375455d83a14cf27",
+  "name" : "Verify that user is able to login",
+  "time" : {
+    "start" : 1628168127101,
+    "stop" : 1628168151137,
+    "duration" : 24036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

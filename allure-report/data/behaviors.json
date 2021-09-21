@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Login OrangeHRMS",
+    "children" : [ {
+      "name" : "Verify that user is able to login",
+      "uid" : "375455d83a14cf27",
+      "parentUid" : "a389e3227bd5ba3375d643bb5797cd22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628168127101,
+        "stop" : 1628168151137,
+        "duration" : 24036
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a389e3227bd5ba3375d643bb5797cd22"
+  } ],
+  "name" : "behaviors"
+}
